@@ -54,10 +54,13 @@ Image-Search/
 - Introduce filters like orientation or color  
 - Add light/dark mode toggle 🌗
 
-## 📚 Related Challenge
 
-This is part of my [#30DaysOfJavaScript](https://twitter.com/search?q=%2330DaysOfJavaScript) series.  
-Follow along 👉 [@QasimRokeeb](https://twitter.com/QasimRokeeb)
+
+## 🧩 Part of
+
+**[30 Days of JavaScript Challenge](#)**
+Follow the journey: [@qasimrokeeb](https://x.com/qasimrokeeb)
+Hashtags: `#30DaysOfJS` `#JavaScript` `#FrontendDev` `Build In Public`
 
 ## 📜 License
 
